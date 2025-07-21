@@ -1,0 +1,5 @@
+/home/vboxuser/Documents/cadastro-pessoas/backend/src/main/java/com/cadastro/CadastroApplication.java
+/home/vboxuser/Documents/cadastro-pessoas/backend/src/main/java/com/cadastro/model/Pessoa.java
+/home/vboxuser/Documents/cadastro-pessoas/backend/src/main/java/com/cadastro/controller/PessoaController.java
+/home/vboxuser/Documents/cadastro-pessoas/backend/src/main/java/com/cadastro/repository/PessoaRepository.java
+/home/vboxuser/Documents/cadastro-pessoas/backend/src/main/java/com/cadastro/config/DatabaseConfig.java
