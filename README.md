@@ -9,6 +9,7 @@ Servidor: Apache Tomcat 9
 Build: Maven
 
 📁 Estrutura do Projeto
+```
 cadastro-pessoas/
 ├── backend/
 │   ├── src/
@@ -38,7 +39,7 @@ cadastro-pessoas/
 ├── database/
 │   └── init.sql
 └── README.md
-
+```
 🚀 Guia de Instalação e Deploy
 1. 🐘 Configuração do PostgreSQL
 Instalação no Ubuntu/Debian:
